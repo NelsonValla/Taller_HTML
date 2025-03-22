@@ -1,0 +1,41 @@
+.formulario1{
+    width: 25%;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,2), 0 6px 20px 0 rgba(0,0,0,19);
+}
+
+.formulario1 input{
+    width: 100%;
+    padding: 10px;
+    margin:5px 2px;
+    box-sizing: border-box;
+}
+
+.formulario1 select{
+    width: 100%;
+    padding: 10px;
+}
+
+body{
+    width: 80%;
+    margin: 0 auto;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+
+}
+
+div{
+    background-color: aqua;
+}
+
+input{
+    background-color: white;
+}
+
+select{
+    background-color: aliceblue;
+}
